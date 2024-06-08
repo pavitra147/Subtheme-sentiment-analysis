@@ -25,28 +25,6 @@ To run the notebook, you need to have the following installed:
 - nltk
 - transformers
 
-### Installation
-
-1. Clone this repository:
-
-    bash
-    git clone https://github.com/yourusername/subtheme-sentiment-analysis.git
-    cd subtheme-sentiment-analysis
-    
-
-2. Create a virtual environment and activate it:
-
-    bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    
-
-3. Install the required packages:
-
-    bash
-    pip install -r requirements.txt
-    
-
 ### Notebook Steps
 
 1. *Data Exploration*: Load the dataset and display the first few rows to understand its structure.
