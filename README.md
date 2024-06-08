@@ -38,6 +38,7 @@ To run the notebook, you need to have the following installed:
 
 - subtheme_sentiment_analysis_notebook_updated.ipynb: Jupyter notebook containing the code for subtheme sentiment analysis.
 - Evaluation-dataset.csv: Sample dataset used for the analysis (ensure this is in the same directory as the notebook).
+- requirements.txt: List of required Python packages.
 
 
 ## Contributing
